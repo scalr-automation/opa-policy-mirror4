@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Assume one eight dog join guess nothing card."] {
+                true
+            }
