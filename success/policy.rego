@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Order make stuff role whether various despite whom."] {
+                true
+            }
