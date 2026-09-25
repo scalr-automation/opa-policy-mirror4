@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Responsibility heavy story effect mouth animal."] {
+                true
+            }
