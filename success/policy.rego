@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Surface foreign low how training cold participant."] {
+                true
+            }
