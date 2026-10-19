@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Mother firm require rest between impact yeah strategy."] {
+                true
+            }
