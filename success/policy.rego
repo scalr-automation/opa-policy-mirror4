@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["See place board nice serve knowledge record including."] {
+                true
+            }
