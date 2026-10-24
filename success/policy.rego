@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Conference box prove western fly only exist north."] {
+                true
+            }
