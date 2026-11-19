@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Opportunity call why owner respond guy management."] {
+                true
+            }
